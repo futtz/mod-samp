@@ -6,7 +6,7 @@ Multi-purpose cheat / fun tool for GTA San Andreas and SA:MP
 **Currently supported SA-MP version:** `0.3.7`
 
 ## Installation
-Download `hacksa.exe` from the [latest release](https://github.com/futtz/mod-samp/releases/tag/Pre-Alpha), run it and command line interface will guide you.
+Download `hacksa.exe` from the [latest release](https://github.com/futtz/mod-samp/releases), run it and command line interface will guide you.
 
 ## Cheats available
 **Pedestrian**
