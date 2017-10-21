@@ -7,7 +7,7 @@
 int main(void) {
 	
 	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), CONSOLE_ATTRIBUTE);
-	printf("haxsa by xaringr\nVersion: %s\n\n", RELEASE_VERSION);
+	printf("Hacksa by futtz | github.com/futtz\nVersion: %s\n\n", RELEASE_VERSION);
 	while (true) {
 
 		unsigned int pid = NULL;
