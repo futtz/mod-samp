@@ -3,7 +3,7 @@
 */
 
 #pragma once
-#include "haxsalib.h"
+#include "hacksalib.h"
 #include <thread>
 #define LOOP_DELAY 75
 #define HOTKEY_DELAY 145
