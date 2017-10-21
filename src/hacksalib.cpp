@@ -2,7 +2,7 @@
 	by futtz @ github.com/futtz
 */
 
-#include "haxsalib.h"
+#include "hacksalib.h"
 
 unsigned int hlib::getpid(const char* proc) {
 	
