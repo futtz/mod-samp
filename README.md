@@ -20,6 +20,7 @@ Download `hacksa.exe` from the [latest release](https://github.com/futtz/mod-sam
 - Add more unique features & specially for multiplayer mode
 
 ## Notes
+- If the game freezes, you can overcome it by hitting the button T or just press `CTRL + F7` to terminate process
 - The software is portable (Only on windows platform), meaning that you don't have to install anything.
 - The software uses key detection (hotkeys), therefore you can minimize the console
 - Blinking colors is currently just for local player (just you can see colors changing)
