@@ -1,7 +1,7 @@
 Hacksa
 =============
 
-Multi-purpose cheat / fun tool for GTA San Andreas and SA:MP  
+Multi-purpose cheat / fun external tool for GTA San Andreas and SA:MP  
 **Current Hacksa version:** `Pre-Alpha` 
 **Currently supported SA-MP version:** `0.3.7`
 
